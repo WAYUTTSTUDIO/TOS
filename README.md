@@ -3,7 +3,7 @@
 นี่คือ repository สำหรับเก็บ **Terms of Service (TOS)** และ **Privacy Policy** ของแอป/เว็บไซต์ของคุณ โดยใช้ GitHub Pages เพื่อเผยแพร่เป็น URL สาธารณะ
 
 ## ไฟล์
-- `tos.html` : หน้า Terms of Service
+- `Privacy Policy (นโยบายความเป็นส่วนตัว).md` : หน้า Privacy Policy (นโยบายความเป็นส่วนตัว).md <a href="Privacy Policy (นโยบายความเป็นส่วนตัว).md">Privacy Policy</a></p>
 - `privacy.html` : หน้า Privacy Policy
 
 ## GitHub Pages URL
