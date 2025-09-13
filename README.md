@@ -19,3 +19,6 @@
 
 ## การแก้ไข
 แก้ไขไฟล์ HTML แล้ว commit และ push ขึ้น repository GitHub
+
+<p>ข้อมูลส่วนบุคคลของคุณจะถูกเก็บรักษาตามนโยบายความเป็นส่วนตัวของเรา 
+<a href="Privacy Policy (นโยบายความเป็นส่วนตัว).md">Privacy Policy</a></p>
