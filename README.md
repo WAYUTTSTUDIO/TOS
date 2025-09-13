@@ -9,4 +9,3 @@
 
 # TIKTOK DEVELOPERS
 [tiktoknsrycHuR8x7vTBnxHNa3CKreptOdEopq.txt](https://github.com/user-attachments/files/22311728/tiktoknsrycHuR8x7vTBnxHNa3CKreptOdEopq.txt)
-tiktok-developers-site-verification=nsrycHuR8x7vTBnxHNa3CKreptOdEopq
