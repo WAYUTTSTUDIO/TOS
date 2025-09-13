@@ -4,7 +4,7 @@
 
 ## ไฟล์
 - `Privacy Policy` : หน้า Privacy Policy (นโยบายความเป็นส่วนตัว).md <a href="Privacy Policy (นโยบายความเป็นส่วนตัว).md">Privacy Policy</a></p>
-- `privacy.html` : หน้า Privacy Policy
+- `Terms of Service (TOS)` : หน้า Terms of Service.png <a href="Terms of Service.png" >Terms of Service.png</a></p>
 
 ## GitHub Pages URL
 - Terms of Service: `https://username.github.io/my-website/tos.html`
