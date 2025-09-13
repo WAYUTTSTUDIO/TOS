@@ -9,14 +9,3 @@
 
 # TIKTOK DEVELOPERS
 [tiktoknsrycHuR8x7vTBnxHNa3CKreptOdEopq.txt](https://github.com/user-attachments/files/22311728/tiktoknsrycHuR8x7vTBnxHNa3CKreptOdEopq.txt)
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown-light.min.css">
-<style>
-  body {
-    box-sizing: border-box;
-    min-width: 200px;
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 45px;
-  }
-</style>
