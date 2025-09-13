@@ -12,7 +12,7 @@
 
 > หมายเหตุ: เปลี่ยน `username` และ `my-website` ให้ตรงกับบัญชี GitHub และชื่อ repository ของคุณ
 
-## วิธีใช้งาน
+## Privacy Policy (นโยบายความเป็นส่วนตัว).md
 1. อัปโหลดไฟล์ `tos.html` และ `privacy.html` ไปยัง repository
 2. เปิดใช้งาน GitHub Pages ใน Settings → Pages → เลือก branch `main` → root `/`
 3. ใช้ URL ของ GitHub Pages เป็น **Terms of Service URL** และ **Privacy Policy URL** บน TikTok Developer หรือแพลตฟอร์มอื่น ๆ
